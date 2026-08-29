@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "812a2eb4b8f3d754",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f831e31a2277835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cd21ab4a221d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ji 等 - 2026 - Towards Autonomous UAV Visual Object Search in City Space Benchmark and Agentic Methodology-文献鸟瞰-747-gpt-5.6-terra.canvas",
+                "viewState": {
+                  "x": 525,
+                  "y": -222.76923076923086,
+                  "zoom": -1.1324502960236498
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ji 等 - 2026 - Towards Autonomous UAV Visual Object Search in City Space Benchmark and Agentic Methodology-文献鸟瞰-747-gpt-5.6-terra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ce58b59e1df9fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "47cab6519589f83d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77dc08da9cee4b10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cc08c55e955ab9b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bdc2b31bcf37c855",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "c8f7bff44119543b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fff1b73478f95946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6688655c10ed7427",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "d466c069e0520c52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "17218ab825c7c9a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b88611e9fe30a08e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4f4481b22fff194d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "4cd21ab4a221d6ae",
+  "lastOpenFiles": [
+    "欢迎.md",
+    "Ji 等 - 2026 - Towards Autonomous UAV Visual Object Search in City Space Benchmark and Agentic Methodology-文献鸟瞰-747-gpt-5.6-terra.canvas"
+  ]
+}
